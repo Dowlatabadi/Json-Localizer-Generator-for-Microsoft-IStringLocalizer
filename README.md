@@ -4,7 +4,7 @@ json Localization file  Generator Script
 
 This script generates a json file respecting to Microsoft IStringLocalizer 
 
-### Sample input file content
+### Sample input file content:
 ```
 There is no assets to be added.
 There is no assets to be added.
@@ -23,7 +23,7 @@ House number must be valid.
 something went wrong
 ```
 
-### Generated output
+### Generated output:
 
 ```json
 [
