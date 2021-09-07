@@ -1,0 +1,15 @@
+There is no assets to be added.
+There is no assets to be added.
+Invalid asset can't be added.
+User Id can't be null.
+User Id can't be empty.
+User Id not found.
+User must be older than 18 years of age.
+Email is not valid.
+FirstName is not valid.
+LastName is not valid.
+Street must be valid.
+Postal Code must be valid.
+Line1 of the address must be valid.
+House number must be valid.
+something went wrong
