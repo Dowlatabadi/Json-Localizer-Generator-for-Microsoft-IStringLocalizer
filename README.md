@@ -1,11 +1,11 @@
 # Json-Localizer-Generator-for-Microsoft-IStringLocalizer
 json Localization file  Generator Script
-### Summary
+## Summary
 
 This script generates a json file respecting to Microsoft IStringLocalizer 
 
-###Sample input file
-`
+### Sample input file content
+```
 There is no assets to be added.
 There is no assets to be added.
 Invalid asset can't be added.
@@ -21,11 +21,11 @@ Postal Code must be valid.
 Line1 of the address must be valid.
 House number must be valid.
 something went wrong
-`
+```
 
-###Sample output
+### Sample output
 
-`
+```json
 [
 
   {
@@ -135,4 +135,4 @@ something went wrong
   }
 
 ]
-`
+```
