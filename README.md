@@ -23,7 +23,7 @@ House number must be valid.
 something went wrong
 ```
 
-### Sample output
+### Generated output
 
 ```json
 [
